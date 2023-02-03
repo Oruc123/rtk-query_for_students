@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Oruc",
+      "surname": "Qarayev",
+      "email": "oruc@mail.ru",
+      "createdAt": 1675381941082,
+      "id": 1
+    },
+    {
+      "name": "Test",
+      "surname": "Ter",
+      "email": "werwer",
+      "createdAt": 1675418506131,
+      "id": 2
+    }
+  ]
+}
